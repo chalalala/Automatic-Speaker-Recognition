@@ -1,0 +1,3 @@
+testing_data/nguyenminhhieu-voice2.wav
+testing_data/mai-02.wav
+testing_data/mai-01.wav
