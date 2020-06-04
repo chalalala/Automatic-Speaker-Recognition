@@ -1,11 +1,10 @@
 #  Speaker Identification Using GMMs
 This is done for final project of Digital Signal Processing.  
 
-I have modified this code to run on Linux. In Window, there will be some differences in paths and commands.
+The code and instruction is written (or modified) for Linux and is made to be more suitable for our usage. In Window, there will be some differences in paths and commands.
 
 ## Installation
 ### 1. Install Anacoda 64-bit Python 2.7 version
-For Linux  
 Go to the following link: Anaconda.com/downloads.
 Copy the bash (.sh file) installer link.  
 
@@ -50,9 +49,12 @@ In case `pip` is not downloaded
 apt install python-pip
 ```
 ## Dataset
-Audios using for this project will be stored in *development_set*  `
+Audios using for this project will be stored in *development_set*
 ### 1. Training Data
 Dataset (file to be trained) need to be located in folder *dataset*.  
+File name must be in the format "Name - order".
+For example, Mai-01.wav  
+
 To generate list of (path) file to be trained
 ```
 python train_list_generator.py
@@ -67,6 +69,19 @@ To generate list of (path) file to be tested
 python test_list_generator.py
 ```
 A file named *development_set_test.txt* will be produced.
+
+## Implementation
+### 1. Training
+To train model
+```
+python train_models.py
+```
+
+### 2. Testing
+Currently, the code just test for existing testing audios (which placed in testing_data), not from the microphone. To test model (to identify who is the speaker)
+```
+python test_speaker.py
+```
 
 ## Reference
 Source code: https://github.com/abhijeet3922/Speaker-identification-using-GMMs
