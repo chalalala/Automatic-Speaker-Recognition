@@ -40,14 +40,24 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ### 2. Install packages
-To install `python_speech_features` package
+Required packages:  
+- python_speech_features
+- sounddevice
+To install package
 ```
-pip install python_speech_features
+pip install <package-name>
 ```
 In case `pip` is not downloaded
 ```
 apt install python-pip
 ```
+
+### 3. Install PortAudio library
+To install `libportaudio2`
+```
+sudo apt-get install libportaudio2
+```
+
 ## Dataset
 Audios using for this project will be stored in *development_set*
 ### 1. Training Data
