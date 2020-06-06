@@ -1,9 +1,0 @@
-dataset/TranMinhNhat_project_testing.wav
-dataset/Duy-02.wav
-dataset/LeThucKien_voicetest.wav
-dataset/Mai.wav
-dataset/Minhhieu-02.wav
-dataset/Minhhieu.wav
-dataset/Son_speak_test.wav
-dataset/Duy-01.wav
-dataset/NhatAnh_testvoice.wav

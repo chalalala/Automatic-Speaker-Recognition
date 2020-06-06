@@ -22,6 +22,7 @@ speakers   = [fname.split("/")[-1].split(".gmm")[0] for fname
 
 # Read the test directory and get the list of test audio files 
 sr,audio = record()
+print (sr, audio)
 vector   = extract_features(audio,sr)
 
 log_likelihood = np.zeros(len(models)) 
