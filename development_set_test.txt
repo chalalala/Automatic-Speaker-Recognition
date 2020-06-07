@@ -18,3 +18,7 @@ testing_data/Son-05.wav
 testing_data/mai-01.wav
 testing_data/Duy-02.wav
 testing_data/Duy- 06.wav
+testing_data/LeThucKien-06.wav
+testing_data/LeThucKien-07.wav
+testing_data/Hieu-01.wav
+testing_data/Hieu-02.wav
