@@ -1,7 +1,6 @@
 testing_data/HongMinh-06.wav
 testing_data/Duy-03.wav
 testing_data/Son-04.wav
-testing_data/Hieu-voice2.wav
 testing_data/mai-03.wav
 testing_data/NhatAnh-01.wav
 testing_data/Son- 06.wav
