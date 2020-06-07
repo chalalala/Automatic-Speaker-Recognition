@@ -42,6 +42,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 ### 2. Install packages
 Required packages:  
 - python_speech_features
+- sklearn
+- scipy
 - sounddevice
 To install package
 ```
