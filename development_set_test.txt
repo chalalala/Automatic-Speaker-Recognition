@@ -1,3 +1,21 @@
+testing_data/HongMinh-06.wav
+testing_data/Duy - 03.wav
+testing_data/Son-04.wav
 testing_data/nguyenminhhieu-voice2.wav
-testing_data/mai-02.wav
+testing_data/mai-03.wav
+testing_data/NhatAnh-01.wav
+testing_data/Son - 06.wav
+testing_data/Nhat-06.wav
+testing_data/TranMinhNhat- 01.wav
+testing_data/Duy - 04.wav
+testing_data/Hieu-06.wav
+testing_data/Son-03.wav
+testing_data/mai-006.wav
+testing_data/mai-002.wav
+testing_data/mai-001.wav
+testing_data/Duy - 01.wav
+testing_data/NhatAnh-06.wav
+testing_data/Son-05.wav
 testing_data/mai-01.wav
+testing_data/Duy - 02.wav
+testing_data/Duy - 06.wav
