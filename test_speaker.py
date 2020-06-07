@@ -26,11 +26,14 @@ models    = [cPickle.load(open(fname,'r')) for fname in gmm_files]
 speakers   = [fname.split("/")[-1].split(".gmm")[0] for fname 
               in gmm_files]
 
+count = 0
+accuracy = 0 
 # Read the test directory and get the list of test audio files 
 for path in file_paths:   
     
     path = path.strip()   
     print path
+    test_person = path[13:path.find('-')]
     sr,audio = read(path)
     vector   = extract_features(audio,sr)
     
@@ -43,6 +46,10 @@ for path in file_paths:
     
     winner = np.argmax(log_likelihood)
     print path,"\ndetected as - ", speakers[winner]
+    count = count +1
+    if (test_person.lower() == speakers[winner].lower()):
+        accuracy = accuracy + 1
     time.sleep(1.0)
+print "Accuracy rate: ",round((float(accuracy)/float(count))*100,2) , "%"
 
 
