@@ -45,8 +45,9 @@ for path in file_paths:
         seperate = path.split('/')
         path = seperate[len(seperate)-1]
         path = re.sub('.wav','',path)
-
-        picklefile = path.split("-")[0]+".gmm"
+        
+        name = re.sub(" ","",path)
+        picklefile = name.split("-")[0]+".gmm"
         cPickle.dump(gmm,open(dest + picklefile,'w'))
         print '+ modeling completed for speaker:',picklefile," with data point = ",features.shape    
         features = np.asarray(())
