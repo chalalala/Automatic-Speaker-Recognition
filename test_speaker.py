@@ -1,6 +1,7 @@
 #test_speaker.py
 
 import os
+import re
 import cPickle
 import numpy as np
 from scipy.io.wavfile import read
@@ -47,7 +48,7 @@ for path in file_paths:
     winner = np.argmax(log_likelihood)
     print path,"\ndetected as - ", speakers[winner]
     count = count +1
-    if (test_person.rstrip().lower() == speakers[winner].rstrip().lower()):
+    if (re.sub(" ","",test_person).lower() == re.sub(" ","",speakers[winner]).lower()):
         accuracy = accuracy + 1
     time.sleep(1.0)
 print "Accuracy rate: ",round((float(accuracy)/float(count))*100 ,2) , "%"
