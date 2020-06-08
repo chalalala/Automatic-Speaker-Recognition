@@ -34,7 +34,7 @@ for path in file_paths:
     
     path = path.strip()   
     print path
-    test_person = path[13:path.find('-')]
+    test_person = path[path.find('/',14)+1:path.find('-')]
     sr,audio = read(path)
     vector   = extract_features(audio,sr)
     
