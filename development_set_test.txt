@@ -28,3 +28,4 @@ testing_data/Son/Son-13.wav
 testing_data/Son/Son-12.wav
 testing_data/Son/Son-15.wav
 testing_data/Son/Son-14.wav
+testing_data/HongMinh-06.wav
