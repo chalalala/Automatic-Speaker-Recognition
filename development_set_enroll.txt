@@ -1,15 +1,30 @@
+dataset/NhatAnh/NhatAnh-04.wav
+dataset/NhatAnh/NhatAnh-03.wav
+dataset/NhatAnh/NhatAnh-01.wav
+dataset/NhatAnh/NhatAnh-05.wav
+dataset/NhatAnh/NhatAnh-02.wav
+dataset/Mai/Mai-01.wav
+dataset/Mai/Mai-02.wav
+dataset/Mai/Mai-03.wav
+dataset/Mai/Mai-05.wav
+dataset/Mai/Mai-04.wav
 dataset/Kien/Kien-04.wav
 dataset/Kien/Kien-02.wav
 dataset/Kien/Kien-01.wav
 dataset/Kien/Kien-03.wav
 dataset/Kien/Kien-05.wav
-dataset/Son/Son-06.wav
-dataset/Son/Son-08.wav
-dataset/Son/Son-09.wav
-dataset/Son/Son-10.wav
-dataset/Son/Son-07.wav
-dataset/NhatAnh/NhatAnh-01.wav
-dataset/NhatAnh/NhatAnh-04.wav
-dataset/NhatAnh/NhatAnh-05.wav
-dataset/NhatAnh/NhatAnh-02.wav
-dataset/NhatAnh/NhatAnh-03.wav
+dataset/Duy/Duy - 01.wav
+dataset/Duy/Duy - 03.wav
+dataset/Duy/Duy - 02.wav
+dataset/Duy/Duy - 04.wav
+dataset/Duy/Duy - 05.wav
+dataset/MinhHieu/minhhieu-05.wav
+dataset/MinhHieu/minhhieu-04.wav
+dataset/MinhHieu/minhhieu-02.wav
+dataset/MinhHieu/minhhieu-03.wav
+dataset/MinhHieu/minhhieu-01.wav
+dataset/Son/Son-04.wav
+dataset/Son/Son-01.wav
+dataset/Son/Son-03.wav
+dataset/Son/Son-05.wav
+dataset/Son/Son-02.wav
