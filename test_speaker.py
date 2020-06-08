@@ -50,6 +50,6 @@ for path in file_paths:
     if (test_person.rstrip().lower() == speakers[winner].rstrip().lower()):
         accuracy = accuracy + 1
     time.sleep(1.0)
-print "Accuracy rate: ",round((float(accuracy)/float(count))*100,2) , "%"
+print "Accuracy rate: ",round((float(accuracy)/float(count))*100 ,2) , "%"
 
 
