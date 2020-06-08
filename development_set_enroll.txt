@@ -3,16 +3,11 @@ dataset/Duy/Duy - 05.wav
 dataset/Duy/Duy - 04.wav
 dataset/Duy/Duy - 01.wav
 dataset/Duy/Duy - 02.wav
-dataset/MinhHieu/Hieu-01.wav
-dataset/MinhHieu/Hieu-04.wav
-dataset/MinhHieu/Hieu-03.wav
-dataset/MinhHieu/Hieu-02.wav
-dataset/MinhHieu/Hieu-05.wav
-dataset/Mai/mai-004.wav
-dataset/Mai/mai-005.wav
-dataset/Mai/mai-002.wav
-dataset/Mai/mai-001.wav
-dataset/Mai/mai-003.wav
+dataset/Mai/Mai-01.wav
+dataset/Mai/Mai-05.wav
+dataset/Mai/Mai-04.wav
+dataset/Mai/Mai-02.wav
+dataset/Mai/Mai-03.wav
 dataset/HongMinh/HongMinh-05.wav
 dataset/HongMinh/HongMinh-01.wav
 dataset/HongMinh/HongMinh-02.wav
@@ -33,13 +28,18 @@ dataset/NhatAnh/NhatAnh-04.wav
 dataset/NhatAnh/NhatAnh-05.wav
 dataset/NhatAnh/NhatAnh-02.wav
 dataset/NhatAnh/NhatAnh-03.wav
-dataset/Tung/Tung-06.wav
-dataset/Tung/Tung-08.wav
-dataset/Tung/Tung-10.wav
-dataset/Tung/Tung-09.wav
-dataset/Tung/Tung-07.wav
+dataset/Tung/Tung-04.wav
+dataset/Tung/Tung-05.wav
+dataset/Tung/Tung-03.wav
+dataset/Tung/Tung-02.wav
+dataset/Tung/Tung-01.wav
+dataset/Hieu/Hieu-01.wav
+dataset/Hieu/Hieu-04.wav
+dataset/Hieu/Hieu-03.wav
+dataset/Hieu/Hieu-02.wav
+dataset/Hieu/Hieu-05.wav
 dataset/Nhat/Nhat-01.wav
 dataset/Nhat/Nhat-03.wav
-dataset/Nhat/nhat-05.wav
+dataset/Nhat/Nhat-05.wav
 dataset/Nhat/Nhat-02.wav
 dataset/Nhat/Nhat-04.wav
