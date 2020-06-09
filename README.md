@@ -91,9 +91,13 @@ python train_models.py
 ```
 
 ### 2. Testing
-Currently, the code just test for existing testing audios (which placed in testing_data), not from the microphone. To test model (to identify who is the speaker)
+To test model (to identify who is the speaker) on existed testing files
 ```
 python test_speaker.py
+```
+To test model on input taken directly from microphone
+```
+python test_speaker_from_mic.py
 ```
 
 ## Reference
